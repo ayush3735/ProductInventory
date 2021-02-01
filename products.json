@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lenovo k20",
+      "price": 11111,
+      "brand": "Lenovo",
+      "imageUrl": "https://rukminim1.flixcart.com/image/416/416/k05ljm80/mobile/z/6/e/lenovo-k10-note-pafr0026in-original-imafkyarhbp9dqxk.jpeg?q=70",
+      "ram": "3 GB",
+      "memory": "128 GB",
+      "camera": "32MP+48MP",
+      "color": "Green",
+      "viewcount": null
+    },
+    {
+      "id": 2,
+      "name": "MI A2",
+      "price": 10000,
+      "brand": "Xiomi",
+      "imageUrl": "assets\\MIA2.jpeg",
+      "ram": "3 GB",
+      "memory": "128 GB",
+      "camera": "32MP+48MP",
+      "color": "Gold",
+      "viewcount": 15
+    },
+    {
+      "id": 7,
+      "name": "Red MI 7",
+      "price": 9000,
+      "brand": "Xiomi",
+      "imageUrl": "assets\\REDMI7.jpeg",
+      "ram": "4 GB",
+      "memory": "64 GB",
+      "camera": "32MP+48MP",
+      "color": "red",
+      "viewcount": 2
+    },
+    {
+      "id": 8,
+      "name": "Red MI 8",
+      "price": 12000,
+      "brand": "Xiomi",
+      "imageUrl": "assets\\REDMI8.jpeg",
+      "ram": "4 GB",
+      "memory": "64 GB",
+      "camera": "32MP+48MP",
+      "color": "red",
+      "viewcount": 4,
+      "checked": false
+    },
+    {
+      "id": 9,
+      "name": "Red MI 9",
+      "price": 15000,
+      "brand": "Xiomi",
+      "imageUrl": "assets\\REDMI9.jpeg",
+      "ram": "4 GB",
+      "memory": "64 GB",
+      "camera": "32MP+48MP",
+      "color": "red",
+      "viewcount": 2,
+      "checked": false
+    },
+    {
+      "id": 10,
+      "name": "Iphone 5",
+      "price": 12345,
+      "brand": "Apple",
+      "imageUrl": "assets\\IPHONE5.jpeg",
+      "ram": "4 GB",
+      "memory": "64 GB",
+      "camera": "12MP+32MP",
+      "color": "Black",
+      "viewcount": 2,
+      "checked": false
+    },
+    {
+      "name": "Iphone 6s",
+      "price": 15999,
+      "brand": "Apple",
+      "imageUrl": "assets\\IPHONE6S.jpeg",
+      "ram": "4 GB",
+      "memory": "16 GB",
+      "camera": "32MP+48MP",
+      "color": "Black",
+      "viewcount": 0,
+      "id": 11,
+      "checked": false
+    },
+    {
+      "id": 12,
+      "name": "one plus 7",
+      "price": 12345,
+      "brand": "One Plus",
+      "imageUrl": "assets\\ONEPLUS7.jpeg",
+      "ram": "6 GB",
+      "memory": "128 GB",
+      "camera": "12MP+32MP",
+      "color": "Black",
+      "viewcount": 1,
+      "checked": false
+    },
+    {
+      "name": "Iphone 11",
+      "price": 64000,
+      "brand": "Iphone",
+      "imageUrl": "assets\\IPHONE11.jpeg",
+      "ram": "4 GB",
+      "memory": "64 GB",
+      "camera": "12MP+48MP",
+      "color": "Gold",
+      "viewcount": 0,
+      "id": 13
+    },
+    {
+      "name": "Samsung S20",
+      "price": 69999,
+      "brand": "Samsung",
+      "imageUrl": "assets\\SAMSUNGS20.jpeg",
+      "ram": "8 GB",
+      "memory": "128 GB",
+      "camera": "12MP+48MP+64MP",
+      "color": "Black",
+      "viewcount": 0,
+      "id": 14
+    }
+  ]
+}
